@@ -1,0 +1,35 @@
+# 作業用・ソース画像（記事に載せる書き出しだけコミット）
+*.psd
+*.psb
+*.ai
+*.xcf
+*.kra
+*.afdesign
+*.afphoto
+*.sketch
+
+# 画像ツールのバックアップ・元ファイル
+*.orig.*
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.Python
+
+# エディタ一時ファイル
+*.swp
+*.swo
+.#*
+
+# ローカルメモ（任意）
+draft/
+*.local.md
