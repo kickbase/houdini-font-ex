@@ -1,0 +1,31 @@
+* text=auto
+.gitattributes text eol=lf
+.editorconfig  text eol=lf
+
+*.py    text eol=lf
+*.js    text eol=lf
+*.cjs   text eol=lf
+*.mjs   text eol=lf
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.json  text eol=lf
+*.toml  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.md    text eol=lf
+*.mdc   text eol=lf
+*.mmd   text eol=lf
+*.svg   text eol=lf
+*.sh    text eol=lf
+*.ps1   text eol=lf
+*.vex   text eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.hda   -text
+*.jpg   -text
+*.jpeg  -text
+*.gif   -text
+*.psd   -text
+*.png   -text
